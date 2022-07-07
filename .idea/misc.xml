@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android_Project/Actibook/app/src/main/res/layout/content_main.xml" value="0.35333333333333333" />
+        <entry key="..\:/Android_Project/Actibook/app/src/main/res/layout/fragment_gallery.xml" value="0.3676923076923077" />
+        <entry key="..\:/Android_Project/Actibook/app/src/main/res/layout/fragment_home.xml" value="0.3676923076923077" />
+        <entry key="..\:/Android_Project/Actibook/app/src/main/res/layout/fragment_slideshow.xml" value="0.3734375" />
       </map>
     </option>
   </component>
